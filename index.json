@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    {
+      "id": "app.revenge.appicons",
+      "name": "App Icons",
+      "version": "1.1.0",
+      "description": "Custom app icons plugin for Revenge",
+      "downloadUrl": "https://github.com/fr0stlol/Test676766/releases/download/v1.1.0/app.revenge.appicons@1.1.0.zip"
+    }
+  ]
+}
